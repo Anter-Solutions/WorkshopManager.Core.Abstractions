@@ -1,0 +1,15 @@
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\bin\Debug\net6.0\WorkshopManager.Core.Abstractions.deps.json
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\bin\Debug\net6.0\WorkshopManager.Core.Abstractions.dll
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\bin\Debug\net6.0\WorkshopManager.Core.Abstractions.pdb
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\obj\Debug\net6.0\WorkshopManager.Core.Abstractions.csproj.AssemblyReference.cache
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\obj\Debug\net6.0\WorkshopManager.Core.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\obj\Debug\net6.0\WorkshopManager.Core.Abstractions.AssemblyInfoInputs.cache
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\obj\Debug\net6.0\WorkshopManager.Core.Abstractions.AssemblyInfo.cs
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\obj\Debug\net6.0\WorkshopManager.Core.Abstractions.csproj.CoreCompileInputs.cache
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\obj\Debug\net6.0\WorkshopManager.Core.Abstractions.dll
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\obj\Debug\net6.0\refint\WorkshopManager.Core.Abstractions.dll
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\obj\Debug\net6.0\WorkshopManager.Core.Abstractions.pdb
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\obj\Debug\net6.0\ref\WorkshopManager.Core.Abstractions.dll
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\bin\Debug\net6.0\WorkshopManager.Common.dll
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\bin\Debug\net6.0\WorkshopManager.Common.pdb
+D:\Projects\Repos\WorkshopManager\WorkshopManager.Core.Abstractions\obj\Debug\net6.0\WorkshopManager.Core.Abstractions.csproj.CopyComplete
