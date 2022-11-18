@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "WorkshopManager.Core.Abstractions/1.0.0": {
         "dependencies": {
-          "WorkshopManager.Common": "1.0.0"
+          "WorkshopManager.Common": "1.0.0",
+          "WorkshopManager.Infrastructure": "1.0.0"
         },
         "runtime": {
           "WorkshopManager.Core.Abstractions.dll": {}
@@ -149,6 +150,11 @@
         "runtime": {
           "WorkshopManager.Common.dll": {}
         }
+      },
+      "WorkshopManager.Infrastructure/1.0.0": {
+        "runtime": {
+          "WorkshopManager.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -250,6 +256,11 @@
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
     "WorkshopManager.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkshopManager.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -7,7 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove=".gitignore" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\WorkshopManager.Common\WorkshopManager.Common.csproj" />
+    <ProjectReference Include="..\WorkshopManager.Infrastructure\WorkshopManager.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Client\" />
   </ItemGroup>
 
 </Project>

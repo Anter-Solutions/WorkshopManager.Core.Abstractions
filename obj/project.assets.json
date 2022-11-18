@@ -238,6 +238,16 @@
         "runtime": {
           "bin/placeholder/WorkshopManager.Common.dll": {}
         }
+      },
+      "WorkshopManager.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WorkshopManager.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorkshopManager.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -560,11 +570,17 @@
       "type": "project",
       "path": "../WorkshopManager.Common/WorkshopManager.Common.csproj",
       "msbuildProject": "../WorkshopManager.Common/WorkshopManager.Common.csproj"
+    },
+    "WorkshopManager.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../WorkshopManager.Infrastructure/WorkshopManager.Infrastructure.csproj",
+      "msbuildProject": "../WorkshopManager.Infrastructure/WorkshopManager.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "WorkshopManager.Common >= 1.0.0"
+      "WorkshopManager.Common >= 1.0.0",
+      "WorkshopManager.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -574,11 +590,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Repos\\WorkshopManager\\WorkshopManager.Core.Abstractions\\WorkshopManager.Core.Abstractions.csproj",
+      "projectUniqueName": "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.Core.Abstractions\\WorkshopManager.Core.Abstractions.csproj",
       "projectName": "WorkshopManager.Core.Abstractions",
-      "projectPath": "D:\\Projects\\Repos\\WorkshopManager\\WorkshopManager.Core.Abstractions\\WorkshopManager.Core.Abstractions.csproj",
+      "projectPath": "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.Core.Abstractions\\WorkshopManager.Core.Abstractions.csproj",
       "packagesPath": "C:\\Users\\Vladimir\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Repos\\WorkshopManager\\WorkshopManager.Core.Abstractions\\obj\\",
+      "outputPath": "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.Core.Abstractions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Software\\VisualStudio2022_Shared\\NuGetPackages"
@@ -600,8 +616,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\Repos\\WorkshopManager\\WorkshopManager.Common\\WorkshopManager.Common.csproj": {
-              "projectPath": "D:\\Projects\\Repos\\WorkshopManager\\WorkshopManager.Common\\WorkshopManager.Common.csproj"
+            "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.Common\\WorkshopManager.Common.csproj": {
+              "projectPath": "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.Common\\WorkshopManager.Common.csproj"
+            },
+            "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.Infrastructure\\WorkshopManager.Infrastructure.csproj": {
+              "projectPath": "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.Infrastructure\\WorkshopManager.Infrastructure.csproj"
             }
           }
         }
@@ -631,7 +650,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

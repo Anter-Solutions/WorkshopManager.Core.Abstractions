@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ku6V2RUq8eBSML0QII/L/u0bk6K15D0gGXjgx/Yfb7B2wyjxp9j/jyjRoxZkf6Y70P1NIciAF6POfaNozSqnKA==",
+  "dgSpecHash": "Qz2uAGY/ZBrBBlVtLQuTcoMZRtBvrRKcz1v3r2u29bngtmQr/kbLrepmLY8BZSKQBiPJemLxZQ2KoK7qAV22gg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Repos\\WorkshopManager\\WorkshopManager.Core.Abstractions\\WorkshopManager.Core.Abstractions.csproj",
+  "projectFilePath": "D:\\Projects\\Personal\\Anter\\WorkshopManager\\Solution\\WorkshopManager\\WorkshopManager.Core.Abstractions\\WorkshopManager.Core.Abstractions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vladimir\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.10\\microsoft.aspnetcore.cryptography.internal.6.0.10.nupkg.sha512",
     "C:\\Users\\Vladimir\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.10\\microsoft.aspnetcore.cryptography.keyderivation.6.0.10.nupkg.sha512",
